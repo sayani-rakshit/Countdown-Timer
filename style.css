@@ -1,0 +1,41 @@
+h1{
+    position: absolute;
+    left: 35%;
+    top:20%;
+}
+.container{
+    height:80px ;
+    width: 350px;
+    border: 2px solid black;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+
+}
+#timebox{
+    font-size: 30px;
+    position: relative;
+    left:40%;
+}
+input{
+    height: 30px;
+    width: 100px;
+    margin-left: 20px;
+    border: 2px solid white;
+}
+#start{
+    height: 30px;
+    width: 80px;
+    border:2px solid rgb(14, 214, 40) ;
+    border-radius: 8px;
+    background-color:rgb(24, 226, 74) ;
+    font-size: 16px;
+}
+#stop{
+    height: 30px;
+    width: 80px;
+    border:2px solid red;
+    border-radius: 8px;
+    background-color:red ;
+    font-size: 16px;
+}
